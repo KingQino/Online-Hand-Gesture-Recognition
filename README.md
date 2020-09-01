@@ -11,7 +11,10 @@ of pre-trained models just with a detector and a classifier, which is the group 
 experiment. Besides, the model should be trained on the GPU server, but you can run the program on CPU processor (In 
 fact, I debug this program on Mac). Finally, all parameters that you may change are listed in the corresponding file. 
 
+<<<<<<< HEAD
 Github: https://github.com/KingQino/Online-Hand-Gesture-Recognition
+=======
+>>>>>>> 5d814e07c418a48d3a5adcbbea04a33fedd39118
 
 ## Requirements:
 * Python 3
