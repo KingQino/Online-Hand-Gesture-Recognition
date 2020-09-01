@@ -1,6 +1,6 @@
 # Online Hand Gesture Recognition Using 3D Convolutional Neural Networks
 ## Demo
-![]()
+![](https://github.com/KingQino/Online-Hand-Gesture-Recognition/blob/master/demo.gif)
 
 ## Notice!
 For running the system, you need to install some packages first. There are some key packages are listed below, the other 
@@ -11,7 +11,7 @@ of pre-trained models just with a detector and a classifier, which is the group 
 experiment. Besides, the model should be trained on the GPU server, but you can run the program on CPU processor (In 
 fact, I debug this program on Mac). Finally, all parameters that you may change are listed in the corresponding file. 
 
-Github: 
+Github: https://github.com/KingQino/Online-Hand-Gesture-Recognition
 
 ## Requirements:
 * Python 3
