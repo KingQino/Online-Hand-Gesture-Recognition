@@ -1,7 +1,7 @@
 # Online Hand Gesture Recognition Using 3D Convolutional Neural Networks
 ## MSc Final Dissertation
 
-- [Dissertation](./Dissertation.pdf)
+- [Dissertation](./Dissertation.pdf)  (:clock1:: June 2020)
 
 - This work is supervised by [Dr. Tijana Timotijevic](https://www.qmul.ac.uk/eecs/people/profiles/timotijevictijana.html) :heart:
 
