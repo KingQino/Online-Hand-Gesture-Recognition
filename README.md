@@ -1,4 +1,14 @@
 # Online Hand Gesture Recognition Using 3D Convolutional Neural Networks
+## MSc Final Dissertation
+
+- [Dissertation](./Dissertation.pdf)
+
+- This work is supervised by [Dr. Tijana Timotijevic](https://www.qmul.ac.uk/eecs/people/profiles/timotijevictijana.html) :heart:
+
+  > - Although there have been a lot of deep learning researches about dynamic gesture recognition, most of them just focus on how to learn more representative spatiotemporal features in pre-segmented video clips. However, few researchers put their sights on the real-world application of hand gesture recognition. This paper is an attempt to bridge the gap between them.
+  > - In this paper, an online hand gesture recognition system is proposed, which is able to localize gestures in real-time video stream and recognize what these gestures are. All of the models in my project are trained on Jester database. For the overall performance of the system, the best group can respond within three seconds and reach 37.5% Levenshtein accuracy on the homemade dataset.
+  > - Finally, the project achieved a mark of 80%, i.e. distinction.
+
 ## Demo
 ![](https://github.com/KingQino/Online-Hand-Gesture-Recognition/blob/master/demo.gif)
 
